@@ -16,7 +16,7 @@ composer require swoft/amqp
 ```
 
 ```bash
-composer require wuyanzhen/amqp
+composer require wuyanzhen/amqp:dev-master
 ```
 
 ## Resources
