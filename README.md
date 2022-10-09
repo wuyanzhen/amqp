@@ -15,6 +15,10 @@ Swoft Amqp Component
 composer require swoft/amqp
 ```
 
+```bash
+composer require wuyanzhen/amqp
+```
+
 ## Resources
 
 * [Documentation](https://swoft.org/docs)
